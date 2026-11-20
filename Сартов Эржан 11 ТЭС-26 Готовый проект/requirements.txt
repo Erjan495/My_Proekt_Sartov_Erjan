@@ -1,2 +1,0 @@
-# External dependencies are not required.
-# Standard library Python 3.11+ (tkinter, datetime) is used.
